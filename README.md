@@ -9,9 +9,9 @@
 
 * [4 min video of "Introduction to Topological Data Analysis"] (http://www.ayasdi.com/resources/)
 * More videos of longer running time, but worth to watch:
-http://youtu.be/x3Hl85OBuc0
-https://www.youtube.com/watch?v=3Z73Wd2T1xE&feature=youtu.be
-https://www.youtube.com/watch?feature=player_embedded&v=QZvBQgOAuVI
+* http://youtu.be/x3Hl85OBuc0
+* https://www.youtube.com/watch?v=3Z73Wd2T1xE&feature=youtu.be
+* https://www.youtube.com/watch?feature=player_embedded&v=QZvBQgOAuVI
 
 * [Publications from Ayasdi](http://www.ayasdi.com/resources/#publications) - In short, these papers are classified into three groups:
 (1) Topological methodologies for the high dimensional data sets and 3D Object Recognition
